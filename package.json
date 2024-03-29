@@ -1,0 +1,12 @@
+{
+  "name": "realtime-chat-app-master",
+  "version": "1.0.0",
+  "description": "<h1>RealTime Chat Application - LetsChat</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
