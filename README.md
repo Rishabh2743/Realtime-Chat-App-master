@@ -7,6 +7,13 @@
     <img alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img alt="Nodejs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
     <img alt="Socket io" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg"/>
+</div>
+
+* Html
+* Css
+* Javascript
+* Node js
+* Socket io
 
 <ul>
 <li>It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.</li>
