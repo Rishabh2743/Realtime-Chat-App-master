@@ -1,5 +1,13 @@
 <h1>RealTime Chat Application - LetsChat</h1>
 
+# Technologies used in application
+<div style="display: flex; flex-wrap: wrap; gap: 5px">
+    <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+    <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+    <img alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img alt="Nodejs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img alt="Socket io" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg"/>
+
 <ul>
 <li>It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.</li>
 <li>FrontEnd Technologies- HTML, CSS</li>
